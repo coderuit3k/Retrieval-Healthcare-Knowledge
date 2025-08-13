@@ -59,6 +59,7 @@ This project requires the following dependencies:
 
 - **Programming Language:** Python
 - **Package Manager:** Pip
+- You can download **dataset** at here: https://huggingface.co/spaces/teganmosi/medicalchatbot/blob/c4529cf3ebbf73301e20263bb414c23b23148c92/Data/The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf
 
 ### Installation
 
